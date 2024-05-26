@@ -1,0 +1,31 @@
+Slide 1: Title Slide
+Title: Soldeerbout Project
+Subtitle: An Overview of Our Soldering Iron Project
+
+Slide 2: Introduction
+Title: Introduction
+Text: Welcome to the Soldeerbout Project pitch. Our mission is to redefine soldering with innovative design and precision engineering. Join us as we delve into the heart of soldering technology.
+
+Slide 3: Components
+Title: Components
+Text: Our soldering iron comprises essential elements meticulously crafted for optimal performance:
+
+Soldering Iron Tip: Engineered for precision soldering.
+Heating Element: Efficiently generates and maintains heat.
+Handle: Ergonomically designed for comfort and control.
+Power Supply: Provides reliable energy for seamless operation.
+Slide 4: The Design
+Title: The Design
+Text: Our original design evolved into a compact electrical print, encapsulating intricate features for enhanced functionality. Despite its complexity, our design ensures seamless soldering performance in a compact form factor.
+
+Slide 5: Challenges Faced
+Title: Challenges Faced
+Text: Throughout the project, we encountered various hurdles, particularly in the design phase. While initially proficient in Altium, challenges arose during the creation of our PCB file. Weeks of painstaking library development culminated in unresolved issues. Eventually, collaboration with our lecturer and integration of their libraries and schematics facilitated progress.
+
+Slide 6: Conclusion
+Title: Conclusion
+Text: The Soldeerbout Project provided invaluable insights into Altium and electrical component functionality. Despite its complexities, this endeavor proved transformative, enriching our understanding of electrical engineering. For those considering a similar path, I wholeheartedly endorse the experience. It's a challenging journey, but the knowledge gained is unparalleled, shaping both academic and professional trajectories.
+
+Slide 7: Next Steps
+Title: Next Steps
+Text: Armed with newfound expertise, I'm equipped to troubleshoot and modify components independently. No longer reliant on external workshops, I'm empowered to refine and optimize our designs autonomously. The future holds endless possibilities as we continue to innovate and refine our soldering solutions.
